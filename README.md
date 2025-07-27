@@ -1,5 +1,5 @@
 # ✍️ Handwritten Digit Recognition using KNN
-
+![SS](SS1.png)
 An **end-to-end ML pipeline** to classify handwritten digits (0–9) using **scikit-learn pipelines** and **Streamlit for deployment**.
 
 ## 🚀 Project Overview
